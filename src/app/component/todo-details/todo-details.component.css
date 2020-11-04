@@ -1,12 +1,19 @@
+div{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top:25px;
+}
+
 .todo-table{
     border-collapse: collapse;
-    margin:25px 0;
+    margin-top:25px;
+    margin: auto;
     font-size:0.9em;
     min-width:400px;
 }
 
 .todo-table thead tr{
-    background-color: purple ;
+    background-color: rgb(117, 70, 192) ;
     color:#ffffff;
     text-align:left;
     font-weight:bold;

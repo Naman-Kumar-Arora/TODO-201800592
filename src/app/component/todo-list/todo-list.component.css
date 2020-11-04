@@ -4,11 +4,12 @@ div {
 
 h2{
     font-size:0.9em;
-    background-color: purple ;
+    background-color:rgb(117, 70, 192) ;
     color:#ffffff;
     margin-top:25px;
-    margin-left:50px;
-    padding:5px 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 7px;
     padding-bottom:7px;
     text-align:center;
     font-weight:bold;
@@ -16,6 +17,8 @@ h2{
 
 ul {
     list-style: none;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 mat-card{
